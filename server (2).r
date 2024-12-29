@@ -1,6 +1,6 @@
 ## Capstone: Coursera Data Science
 ## Final Project
-## joseantonio
+
 
 # SHINY SERVER 
 library(shiny); library(stringr); library(tm)
